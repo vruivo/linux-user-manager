@@ -1,6 +1,7 @@
 # linux-user-manager
 
 Linux User Manager to be used in the bash.
+Manage users using menus.
 
 Requires:
   * dialog
@@ -14,3 +15,8 @@ Features:
   * add normal/system group
   * change primary and secondary groups of a user
   * delete users and groups
+
+Tested on:
+  * Linux Mint 17.3
+  * Fedora 25 (Twenty Five)
+  * openSUSE Leap 42.2
