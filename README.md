@@ -1,12 +1,12 @@
 # linux-user-manager
 
-Linux User Manager to be used in the bash.
+Linux User Manager to be used in the bash.  
 Manage users using menus.
 
-Requires:
+### Requires:
   * dialog
   
-Features:
+### Features:
   * list all users with respective primary group and login shell
   * list all groups, with the number of users
   * list groups by user
@@ -16,13 +16,13 @@ Features:
   * change primary and secondary groups of a user
   * delete users and groups
 
-Tested on:
+### Tested on:
   * Linux Mint 17.3
   * Fedora 25 (Twenty Five)
   * openSUSE Leap 42.2
 
 
-**Some screenshots:**  
+### Some screenshots:  
   &nbsp;&nbsp; Main Menu  
   &nbsp;&nbsp; ![mainmenu](https://user-images.githubusercontent.com/17187114/35947885-de90cf3c-0c61-11e8-955e-edbe97c4b801.png)
   
